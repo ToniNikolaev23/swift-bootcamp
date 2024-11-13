@@ -17,7 +17,7 @@ struct ColorsBootcamp: View {
             )
             .frame(width: 300, height: 200)
 //            .shadow(radius: 10)
-            .shadow(color: Color.red.opacity(0.2), radius: /*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/, x: -30.0, y: 30.0)
+            .shadow(color: Color.red.opacity(0.2), radius: /*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/, x: -30.0, y: -30.0)
     }
 }
 
