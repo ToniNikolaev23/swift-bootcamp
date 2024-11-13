@@ -17,6 +17,7 @@
 		B557E8072CE4811C000F8C4F /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E8062CE4811B000F8C4F /* GradientBootcamp.swift */; };
 		B557E8092CE4A210000F8C4F /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E8082CE4A210000F8C4F /* IconsBootcamp.swift */; };
 		B557E80B2CE4A4D2000F8C4F /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E80A2CE4A4D2000F8C4F /* ImagesBootcamp.swift */; };
+		B557E80D2CE4BD4D000F8C4F /* FramesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E80C2CE4BD4D000F8C4F /* FramesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B557E8062CE4811B000F8C4F /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
 		B557E8082CE4A210000F8C4F /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		B557E80A2CE4A4D2000F8C4F /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
+		B557E80C2CE4BD4D000F8C4F /* FramesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				B557E8002CE3DA02000F8C4F /* TextBootcamp.swift */,
 				B557E8022CE3DE59000F8C4F /* ShapesBootcamp.swift */,
 				B557E8062CE4811B000F8C4F /* GradientBootcamp.swift */,
+				B557E80C2CE4BD4D000F8C4F /* FramesBootcamp.swift */,
 				B557E7F62CE3D666000F8C4F /* Assets.xcassets */,
 				B557E7F82CE3D666000F8C4F /* Preview Content */,
 				B557E8082CE4A210000F8C4F /* IconsBootcamp.swift */,
@@ -158,6 +161,7 @@
 				B557E8052CE47D0A000F8C4F /* ColorsBootcamp.swift in Sources */,
 				B557E8032CE3DE59000F8C4F /* ShapesBootcamp.swift in Sources */,
 				B557E80B2CE4A4D2000F8C4F /* ImagesBootcamp.swift in Sources */,
+				B557E80D2CE4BD4D000F8C4F /* FramesBootcamp.swift in Sources */,
 				B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */,
 				B557E8012CE3DA02000F8C4F /* TextBootcamp.swift in Sources */,
 				B557E8072CE4811C000F8C4F /* GradientBootcamp.swift in Sources */,
