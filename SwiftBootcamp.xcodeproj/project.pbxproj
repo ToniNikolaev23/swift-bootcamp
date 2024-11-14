@@ -18,6 +18,7 @@
 		B557E8092CE4A210000F8C4F /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E8082CE4A210000F8C4F /* IconsBootcamp.swift */; };
 		B557E80B2CE4A4D2000F8C4F /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E80A2CE4A4D2000F8C4F /* ImagesBootcamp.swift */; };
 		B557E80D2CE4BD4D000F8C4F /* FramesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E80C2CE4BD4D000F8C4F /* FramesBootcamp.swift */; };
+		B557E80F2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E80E2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		B557E8082CE4A210000F8C4F /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		B557E80A2CE4A4D2000F8C4F /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
 		B557E80C2CE4BD4D000F8C4F /* FramesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesBootcamp.swift; sourceTree = "<group>"; };
+		B557E80E2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsOverlaysBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				B557E7F82CE3D666000F8C4F /* Preview Content */,
 				B557E8082CE4A210000F8C4F /* IconsBootcamp.swift */,
 				B557E80A2CE4A4D2000F8C4F /* ImagesBootcamp.swift */,
+				B557E80E2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift */,
 			);
 			path = SwiftBootcamp;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				B557E80B2CE4A4D2000F8C4F /* ImagesBootcamp.swift in Sources */,
 				B557E80D2CE4BD4D000F8C4F /* FramesBootcamp.swift in Sources */,
 				B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */,
+				B557E80F2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift in Sources */,
 				B557E8012CE3DA02000F8C4F /* TextBootcamp.swift in Sources */,
 				B557E8072CE4811C000F8C4F /* GradientBootcamp.swift in Sources */,
 				B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */,
