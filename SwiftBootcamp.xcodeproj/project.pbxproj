@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B53355042CED13740026BF5C /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355032CED13740026BF5C /* StateBootcamp.swift */; };
 		B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */; };
 		B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F42CE3D665000F8C4F /* ContentView.swift */; };
 		B557E7F72CE3D666000F8C4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B557E7F62CE3D666000F8C4F /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B53355032CED13740026BF5C /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		B557E7EF2CE3D665000F8C4F /* SwiftBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBootcampApp.swift; sourceTree = "<group>"; };
 		B557E7F42CE3D665000F8C4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				B5B458002CE8B542005EB613 /* ScrollViewBootcamp.swift */,
 				B5B458022CE8B885005EB613 /* GridBootcamp.swift */,
 				B5B458062CE92AA0005EB613 /* ButtonsBootcamp.swift */,
+				B53355032CED13740026BF5C /* StateBootcamp.swift */,
 			);
 			path = SwiftBootcamp;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				B557E80B2CE4A4D2000F8C4F /* ImagesBootcamp.swift in Sources */,
 				B557E80D2CE4BD4D000F8C4F /* FramesBootcamp.swift in Sources */,
 				B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */,
+				B53355042CED13740026BF5C /* StateBootcamp.swift in Sources */,
 				B557E80F2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift in Sources */,
 				B557E8012CE3DA02000F8C4F /* TextBootcamp.swift in Sources */,
 				B5B458072CE92AA0005EB613 /* ButtonsBootcamp.swift in Sources */,
