@@ -14,6 +14,8 @@
 		B533550C2CEDCF040026BF5C /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533550B2CEDCF040026BF5C /* ConditionalBootcamp.swift */; };
 		B533550E2CEDD8960026BF5C /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533550D2CEDD8960026BF5C /* TernaryBootcamp.swift */; };
 		B53355102CEDDABD0026BF5C /* AnimationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533550F2CEDDABD0026BF5C /* AnimationsBootcamp.swift */; };
+		B53355122CEE210D0026BF5C /* CurvesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355112CEE210D0026BF5C /* CurvesBootcamp.swift */; };
+		B53355142CEE27A40026BF5C /* TransitionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355132CEE27A40026BF5C /* TransitionsBootcamp.swift */; };
 		B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */; };
 		B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F42CE3D665000F8C4F /* ContentView.swift */; };
 		B557E7F72CE3D666000F8C4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B557E7F62CE3D666000F8C4F /* Assets.xcassets */; };
@@ -44,6 +46,8 @@
 		B533550B2CEDCF040026BF5C /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		B533550D2CEDD8960026BF5C /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		B533550F2CEDDABD0026BF5C /* AnimationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsBootcamp.swift; sourceTree = "<group>"; };
+		B53355112CEE210D0026BF5C /* CurvesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvesBootcamp.swift; sourceTree = "<group>"; };
+		B53355132CEE27A40026BF5C /* TransitionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionsBootcamp.swift; sourceTree = "<group>"; };
 		B557E7EF2CE3D665000F8C4F /* SwiftBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBootcampApp.swift; sourceTree = "<group>"; };
 		B557E7F42CE3D665000F8C4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -124,6 +128,8 @@
 				B53355092CEDC2860026BF5C /* BindingsBootcamp.swift */,
 				B533550B2CEDCF040026BF5C /* ConditionalBootcamp.swift */,
 				B533550F2CEDDABD0026BF5C /* AnimationsBootcamp.swift */,
+				B53355112CEE210D0026BF5C /* CurvesBootcamp.swift */,
+				B53355132CEE27A40026BF5C /* TransitionsBootcamp.swift */,
 			);
 			path = SwiftBootcamp;
 			sourceTree = "<group>";
@@ -210,6 +216,7 @@
 				B53355082CEDBFEA0026BF5C /* ExtractSubviewBootcamp.swift in Sources */,
 				B533550C2CEDCF040026BF5C /* ConditionalBootcamp.swift in Sources */,
 				B557E8052CE47D0A000F8C4F /* ColorsBootcamp.swift in Sources */,
+				B53355122CEE210D0026BF5C /* CurvesBootcamp.swift in Sources */,
 				B53355102CEDDABD0026BF5C /* AnimationsBootcamp.swift in Sources */,
 				B557E8032CE3DE59000F8C4F /* ShapesBootcamp.swift in Sources */,
 				B557E80B2CE4A4D2000F8C4F /* ImagesBootcamp.swift in Sources */,
@@ -217,6 +224,7 @@
 				B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */,
 				B53355042CED13740026BF5C /* StateBootcamp.swift in Sources */,
 				B557E80F2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift in Sources */,
+				B53355142CEE27A40026BF5C /* TransitionsBootcamp.swift in Sources */,
 				B557E8012CE3DA02000F8C4F /* TextBootcamp.swift in Sources */,
 				B5B458072CE92AA0005EB613 /* ButtonsBootcamp.swift in Sources */,
 				B5B458052CE9248F005EB613 /* SafeAreaBootcamp.swift in Sources */,
