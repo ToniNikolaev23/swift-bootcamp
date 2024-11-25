@@ -47,6 +47,7 @@
 		B533554F2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533554E2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift */; };
 		B53355512CF4A8650026BF5C /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355502CF4A8650026BF5C /* TextSelectionBootcamp.swift */; };
 		B53355532CF4B0190026BF5C /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355522CF4B0190026BF5C /* ButtonStyleBootcamp.swift */; };
+		B53355552CF4B3DD0026BF5C /* CustomSwipeActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355542CF4B3DD0026BF5C /* CustomSwipeActions.swift */; };
 		B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */; };
 		B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F42CE3D665000F8C4F /* ContentView.swift */; };
 		B557E7F72CE3D666000F8C4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B557E7F62CE3D666000F8C4F /* Assets.xcassets */; };
@@ -110,6 +111,7 @@
 		B533554E2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsBootcamp.swift; sourceTree = "<group>"; };
 		B53355502CF4A8650026BF5C /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
 		B53355522CF4B0190026BF5C /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		B53355542CF4B3DD0026BF5C /* CustomSwipeActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSwipeActions.swift; sourceTree = "<group>"; };
 		B557E7EF2CE3D665000F8C4F /* SwiftBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBootcampApp.swift; sourceTree = "<group>"; };
 		B557E7F42CE3D665000F8C4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -231,6 +233,7 @@
 				B53355432CF3B7F70026BF5C /* AppStorageBootcamp.swift */,
 				B533554C2CF4A0BA0026BF5C /* AsyncImageBootcamp.swift */,
 				B53355522CF4B0190026BF5C /* ButtonStyleBootcamp.swift */,
+				B53355542CF4B3DD0026BF5C /* CustomSwipeActions.swift */,
 			);
 			path = SwiftBootcamp;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				B53355062CED16160026BF5C /* ExtractedFunctionsBootcamp.swift in Sources */,
 				B53355302CF05E080026BF5C /* SliderBootcamp.swift in Sources */,
 				B533550E2CEDD8960026BF5C /* TernaryBootcamp.swift in Sources */,
+				B53355552CF4B3DD0026BF5C /* CustomSwipeActions.swift in Sources */,
 				B533553E2CF35BE90026BF5C /* DataModelsBootcamp.swift in Sources */,
 				B533552E2CF05B890026BF5C /* StepperBootcamp.swift in Sources */,
 				B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */,
