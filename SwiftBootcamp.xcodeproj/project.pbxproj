@@ -44,6 +44,8 @@
 		B53355492CF4521E0026BF5C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355482CF4521E0026BF5C /* OnboardingView.swift */; };
 		B533554B2CF45C9C0026BF5C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533554A2CF45C9C0026BF5C /* ProfileView.swift */; };
 		B533554D2CF4A0BA0026BF5C /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533554C2CF4A0BA0026BF5C /* AsyncImageBootcamp.swift */; };
+		B533554F2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533554E2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift */; };
+		B53355512CF4A8650026BF5C /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355502CF4A8650026BF5C /* TextSelectionBootcamp.swift */; };
 		B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */; };
 		B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F42CE3D665000F8C4F /* ContentView.swift */; };
 		B557E7F72CE3D666000F8C4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B557E7F62CE3D666000F8C4F /* Assets.xcassets */; };
@@ -104,6 +106,8 @@
 		B53355482CF4521E0026BF5C /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		B533554A2CF45C9C0026BF5C /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		B533554C2CF4A0BA0026BF5C /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
+		B533554E2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsBootcamp.swift; sourceTree = "<group>"; };
+		B53355502CF4A8650026BF5C /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
 		B557E7EF2CE3D665000F8C4F /* SwiftBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBootcampApp.swift; sourceTree = "<group>"; };
 		B557E7F42CE3D665000F8C4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -182,8 +186,10 @@
 				B557E80A2CE4A4D2000F8C4F /* ImagesBootcamp.swift */,
 				B557E80E2CE5DA87000F8C4F /* BackgroundsOverlaysBootcamp.swift */,
 				B557E8102CE5E700000F8C4F /* StacksBootcamp.swift */,
+				B53355502CF4A8650026BF5C /* TextSelectionBootcamp.swift */,
 				B557E8122CE63957000F8C4F /* PaddingSpacerBootcamp.swift */,
 				B557E8142CE72678000F8C4F /* InitBootcamp.swift */,
+				B533554E2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift */,
 				B557E8162CE72CEE000F8C4F /* ForEachBootcamp.swift */,
 				B5B458002CE8B542005EB613 /* ScrollViewBootcamp.swift */,
 				B5B458022CE8B885005EB613 /* GridBootcamp.swift */,
@@ -333,6 +339,7 @@
 				B53355222CEF1F980026BF5C /* TextFieldBootcamp.swift in Sources */,
 				B53355182CEE6A550026BF5C /* NavigationViewBootcamp.swift in Sources */,
 				B5B458052CE9248F005EB613 /* SafeAreaBootcamp.swift in Sources */,
+				B53355512CF4A8650026BF5C /* TextSelectionBootcamp.swift in Sources */,
 				B533554B2CF45C9C0026BF5C /* ProfileView.swift in Sources */,
 				B533550A2CEDC2860026BF5C /* BindingsBootcamp.swift in Sources */,
 				B53355342CF067730026BF5C /* DarkModeBootcamp.swift in Sources */,
@@ -353,6 +360,7 @@
 				B533552E2CF05B890026BF5C /* StepperBootcamp.swift in Sources */,
 				B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */,
 				B53355382CF34F060026BF5C /* OnAppearBootcamp.swift in Sources */,
+				B533554F2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift in Sources */,
 				B557E8172CE72CEE000F8C4F /* ForEachBootcamp.swift in Sources */,
 				B5B458012CE8B542005EB613 /* ScrollViewBootcamp.swift in Sources */,
 				B533552A2CEFCA070026BF5C /* ColorPickerBootcamp.swift in Sources */,
