@@ -52,6 +52,8 @@
 		B53355592CF4B7B40026BF5C /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355582CF4B7B40026BF5C /* FocusStateBootcamp.swift */; };
 		B533555B2CF4FD340026BF5C /* SubmitTextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533555A2CF4FD340026BF5C /* SubmitTextFieldBootcamp.swift */; };
 		B533555D2CF4FDFB0026BF5C /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533555C2CF4FDFB0026BF5C /* NavigationStackBootcamp.swift */; };
+		B533555F2CF5045B0026BF5C /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B533555E2CF5045B0026BF5C /* ToolbarBootcamp.swift */; };
+		B53355612CF5A9950026BF5C /* ResizableSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53355602CF5A9950026BF5C /* ResizableSheetsBootcamp.swift */; };
 		B557E7F32CE3D665000F8C4F /* SwiftBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */; };
 		B557E7F52CE3D665000F8C4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B557E7F42CE3D665000F8C4F /* ContentView.swift */; };
 		B557E7F72CE3D666000F8C4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B557E7F62CE3D666000F8C4F /* Assets.xcassets */; };
@@ -120,6 +122,8 @@
 		B53355582CF4B7B40026BF5C /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
 		B533555A2CF4FD340026BF5C /* SubmitTextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBootcamp.swift; sourceTree = "<group>"; };
 		B533555C2CF4FDFB0026BF5C /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
+		B533555E2CF5045B0026BF5C /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
+		B53355602CF5A9950026BF5C /* ResizableSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetsBootcamp.swift; sourceTree = "<group>"; };
 		B557E7EF2CE3D665000F8C4F /* SwiftBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B557E7F22CE3D665000F8C4F /* SwiftBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBootcampApp.swift; sourceTree = "<group>"; };
 		B557E7F42CE3D665000F8C4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -201,6 +205,7 @@
 				B557E8102CE5E700000F8C4F /* StacksBootcamp.swift */,
 				B53355502CF4A8650026BF5C /* TextSelectionBootcamp.swift */,
 				B557E8122CE63957000F8C4F /* PaddingSpacerBootcamp.swift */,
+				B533555E2CF5045B0026BF5C /* ToolbarBootcamp.swift */,
 				B557E8142CE72678000F8C4F /* InitBootcamp.swift */,
 				B53355562CF4B65D0026BF5C /* BadgesBootcamp.swift */,
 				B53355582CF4B7B40026BF5C /* FocusStateBootcamp.swift */,
@@ -246,6 +251,7 @@
 				B533554C2CF4A0BA0026BF5C /* AsyncImageBootcamp.swift */,
 				B53355522CF4B0190026BF5C /* ButtonStyleBootcamp.swift */,
 				B53355542CF4B3DD0026BF5C /* CustomSwipeActions.swift */,
+				B53355602CF5A9950026BF5C /* ResizableSheetsBootcamp.swift */,
 			);
 			path = SwiftBootcamp;
 			sourceTree = "<group>";
@@ -354,6 +360,7 @@
 				B557E8012CE3DA02000F8C4F /* TextBootcamp.swift in Sources */,
 				B5B458072CE92AA0005EB613 /* ButtonsBootcamp.swift in Sources */,
 				B53355202CEF13970026BF5C /* ContextMenuBootcamp.swift in Sources */,
+				B53355612CF5A9950026BF5C /* ResizableSheetsBootcamp.swift in Sources */,
 				B53355402CF35F890026BF5C /* ViewModelBootcamp.swift in Sources */,
 				B533555D2CF4FDFB0026BF5C /* NavigationStackBootcamp.swift in Sources */,
 				B53355322CF060D90026BF5C /* TabViewBootcamp.swift in Sources */,
@@ -384,6 +391,7 @@
 				B533555B2CF4FD340026BF5C /* SubmitTextFieldBootcamp.swift in Sources */,
 				B53355382CF34F060026BF5C /* OnAppearBootcamp.swift in Sources */,
 				B533554F2CF4A7370026BF5C /* BackgroundMaterialsBootcamp.swift in Sources */,
+				B533555F2CF5045B0026BF5C /* ToolbarBootcamp.swift in Sources */,
 				B557E8172CE72CEE000F8C4F /* ForEachBootcamp.swift in Sources */,
 				B53355532CF4B0190026BF5C /* ButtonStyleBootcamp.swift in Sources */,
 				B5B458012CE8B542005EB613 /* ScrollViewBootcamp.swift in Sources */,
